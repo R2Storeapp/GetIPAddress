@@ -2,9 +2,9 @@
 
 **[ FREE ] Get IP Addressr Extension** 
 
-**Released on :** 11 October 2023
+**Released on :** 16 October 2023
 
-**Updated on :** 11 October 2023
+**Updated on :** 16 October 2023
 
 **Latest Version :** 1.0
 
